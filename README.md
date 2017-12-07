@@ -1,14 +1,12 @@
 # Garry Bilkhu - Developer (Temporary Page)
 
-[TOC]
-
 ## About
 
 I am passionate about Computers, building them, programming them and learning more about them. Additionally, I enjoy working with and analyzing data, especially to tinker and figure out how things work. I also have some experience working with graphics design and making logos. Naturally I will use the things I have learned together in some areas like web development or data visualization. I have ambitions to become a full-stack developer, and I believe that with my skills I can bring valueable contributions to a dev team and continue expanding upon my knowledge and skills.
 
 ## Portfolio
 
-###Tribute Page
+### Tribute Page
 
  Status : Complete
 
