@@ -2,7 +2,9 @@
 
 ## About
 
-I am passionate about Computers, building them, programming them and learning more about them. Additionally, I enjoy working with and analyzing data, especially to tinker and figure out how things work. I also have some experience working with graphics design and making logos. Naturally I will use the things I have learned together in some areas like web development or data visualization. I have ambitions to become a full-stack developer, and I believe that with my skills I can bring valueable contributions to a dev team and continue expanding upon my knowledge and skills.
+I am driven by the curiousity and desire to study all things technical with a natural tendancy to figure out how things work. As I grow, my curious nature seems to pull me deeper into the application of sciences, pursuing subjects like Physics, Mathematics, Computer Science in my schooling. An aspect of technical work that I enjoy is that it nearly always involved data and analysis which has drawn me towards developing a passion for working with Computers, building them, programming them and learning more about them. 
+
+Naturally I will use the things I have learned together in some areas like business intelligence, data visualization, and web development. I have ambitions to become a full-stack web developer, and believe that with my skills I can bring valueable contributions to a dev team as a junior developer.
 
 ## Portfolio
 
@@ -20,11 +22,11 @@ Status: In-Progress
 
 A command line utility built with the argparse python module, ability to template directory and file structure as a project management tool, it eventually will be use to loosely track time and productivity and provides a record of projects stored locally. Take a look at the repo Readme for progress and roadmap.
 
-### ISS Trajectory
+### International Spaces Station (ISS) Trajectory
 
 Status : In-Progress
 
-A data visualizatoin of the path of the ISS in a 180 minute period. Textbooks often state that the ISS circles the globe once every 90 minutes, this project uses NASA's open API to ping the ISS in realtime and provide a GPS coordinate of its location above earth. Click the GitHub link to find out more. 
+A data visualizatoin of the path of the ISS in a 180 minute period. Textbooks often state that the ISS circles the globe once every 90 minutes, this project uses NASA's open API to ping the ISS in realtime and retrieve a GPS coordinate of its location above earth to plot the ISS trajectory. Click the GitHub link to find out more. 
 
 ## Skills
 
