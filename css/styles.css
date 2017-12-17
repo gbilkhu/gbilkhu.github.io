@@ -1,0 +1,12 @@
+.navbar-menu {
+    background-color: inherit !important;
+}
+
+a.navbar-item:hover {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+
+#scrollTopBtn {
+    display: none;
+}
