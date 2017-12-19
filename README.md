@@ -11,5 +11,5 @@ The [Bulma](https://bulma.io/) CSS framework is used to style the html elements
 ## TODO
 
 - [ ] Add Jquery to site
-- [ ] Refactory collapsable button in Jquery 
+- [ ] Refactor collapsible button in Jquery 
 - [ ] Add Fancy Scrolling 
